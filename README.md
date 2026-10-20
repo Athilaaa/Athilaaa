@@ -10,20 +10,6 @@ Creating things that live somewhere between intelligent systems and creative dev
 
 <br>
 
-## ✦ Working with -
-
-<div align="left">
-
-| | |
-|---|---|
-| languages | Python • Java • JavaScript |
-| frontend | React • Angular |
-| ai/ml | OpenCV • NLP • LLMs • TensorFlow • scikit-learn |
-| backend | Flask • Firebase |
-| tools | Git • SQL • Figma |
-
-</div>
-
 
 
 
