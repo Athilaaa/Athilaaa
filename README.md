@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,6,12" width="100%" alt="" />
+<img src="assets/banner.svg" width="100%" alt="" />
 
 ### hey, i'm athila ✦
 i do ml, cv & llms @ bu. it's fine, i think.
