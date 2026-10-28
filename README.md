@@ -1,5 +1,10 @@
 <img src="assets/banner.svg" width="100%" alt="" />
 
+### Hey Guys, I'm Athila ✦
+I do ML, CV & llms @ bu. It's fine, i think!
+
+<img src="assets/banner.svg" width="100%" alt="" />
+
 ### hey, i'm athila ✦
 i do ml, cv & llms @ bu. it's fine, i think.
 
@@ -13,7 +18,8 @@ i do ml, cv & llms @ bu. it's fine, i think.
 ```
 
 ![python](https://img.shields.io/badge/python-1a1a2e?style=flat-square&logo=python&logoColor=a78bfa)
-![pytorch](https://img.shields.io/badge/pytorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=a78bfa)
+![pytorch](https://img.shields.io/badge/pytorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=a78bfa)<img width="800" height="360" alt="desk (1)" src="https://github.com/user-attachments/assets/e1164cb3-7051-4737-b441-dc7cebfdc1c1" />
+
 ![opencv](https://img.shields.io/badge/opencv-1a1a2e?style=flat-square&logo=opencv&logoColor=a78bfa)
 ![react](https://img.shields.io/badge/react-1a1a2e?style=flat-square&logo=react&logoColor=a78bfa)
 ![figma](https://img.shields.io/badge/figma-1a1a2e?style=flat-square&logo=figma&logoColor=a78bfa)
